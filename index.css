@@ -54,7 +54,6 @@ ul {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-    font-family: 'Rubik', sans-serif;
 }
 
 ul li {
@@ -65,6 +64,8 @@ ul li {
     flex-grow: 1;
     text-align: center;
     box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2)
+    font-family: 'Rubik', sans-serif;
+
 }
 
 ul li:hover {
